@@ -53,13 +53,22 @@ Communecter est open-source et open-data. Elle est maintenue et développée par
 
 [citizenToolKit](https://gitlab.adullact.net/pixelhumain/citizenToolKit)
 
-Un point d'entrée API est en place. Le code php reprend les grandes lignes du script python fournis par le porteur du défis.
+L'architecture modulaire basée sur les (H)API, également appelée CTK : Citizen ToolKit, permet aux développeurs de créer efficacement des applications orientées vers les citoyens. 
+permet aux développeurs de construire efficacement des applications orientées vers les citoyens 
+en commençant par la définition des points de fonction, puis en construisant l'API correspondante et enfin en construisant l'interface utilisateur sur n'importe quel appareil. 
+correspondante et enfin en construisant l'interface utilisateur sur n'importe quel appareil. 
+
+Le projet grandit avec le temps, en construisant toutes sortes d'applications orientées citoyens 
+basé sur une base de code commune : CTK 
+
+qui se veut générique, sémantiquement standardisé par les ontologies de schema.org 
+lié par des données référencées 
 
 **interop**
 
-Module concernant l'interopérabilité avec d'autre site
-
 [interop](https://gitlab.adullact.net/pixelhumain/interop)
+
+Module concernant l'interopérabilité avec d'autre site
 
 **costum**
 
