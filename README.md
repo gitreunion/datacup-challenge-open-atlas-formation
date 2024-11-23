@@ -18,21 +18,37 @@ Il a pour objectif de contribuer à améliorer l'adéquation entre l'offre et la
 
 ## **Documentation**
 
-Notre solution répond au problème ... . Elle consiste à ... . 
+Notre solution répond au problème ... . Elle consiste à ... .
 
-Cette solution s'adresse à toutes personnes ... .
+Référentiel utilisable imaginé pour visualiser un parcours. 
+
+Cette solution s'adresse à toutes personnes s'interrogeant sur les formations, études, ou certificats en fonction des compétences.
+CV connecté, on déclare le passé, le présent, et les envies pour le future. 
+étude de la data, pour savoir comment l'utilisé
+Pour ce faire, on cherche les formations, métiers, établisements.
+
+On propose un navigateur dynamique, un CV connecté, un CV donut.
+
 Identifier et clarifier les compétences d'une formation (compétences techniques et transférables) dans les secteurs en tension à La Réunion (commerce, numérique, restauration/hôtellerie).
 Offrir une vue "parcours" de la formation professionnelle à La Réunion
 Faciliter l'accès aux formations disponibles et comprendre les suites possibles à la fin d'une formation. 
 
 ### **Installation**
+La base des outils se trouvent sur le gitlab de la plate-forme FusionForge ADULLACT.
+
+https://gitlab.adullact.net/pixelhumain
 
 [Guide d'installation](/INSTALL.md)
 
 ### **Utilisation**
 
->TODO / **documentation d'utilisation de la solution**
+**documentation d'utilisation de la solution**
+> TODO :
 
+### **POC : Réunion éducation **
+Vous pouvez tester notre solution ici :
+
+[Réunion éducation](https://qa.communecter.org/costum/co/index/slug/reunionEducation)
 
 ### **Contributions**
 
